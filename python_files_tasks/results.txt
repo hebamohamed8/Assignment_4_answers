@@ -1,0 +1,2 @@
+The result is1.1666666666666667
+The result is0.25
